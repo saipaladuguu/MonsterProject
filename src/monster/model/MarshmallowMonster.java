@@ -65,7 +65,33 @@ public class MarshmallowMonster
 	public int getnoseCount()
 	{
 		return noseCount;
-		
+	//-------------------------------------	
+	}
+	
+	public void setName(String name)
+	{
+		this.name = name;
+	}
+	
+	public void setEyeCount(int eyeCount)
+	{
+		this.eyeCount = eyeCount;
+	}
+	public void antennaCount(double antennaCount)
+	{
+		this.antennaCount = antennaCount;
+	}
+		public void hasBellyButton(boolean hasBellyBetton)
+		{
+			this.hasBellyButton = hasBellyButton;
+		}
+	public void armCount(int armCount)
+	{
+		this.armCount = armCount;
+	}
+	public void noseCount(int noseCount)
+	{
+		this.noseCount = noseCount;
 	}
 	
 }

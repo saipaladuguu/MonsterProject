@@ -9,6 +9,7 @@ public class MarshmallowMonster
 	private boolean hasBellyButton;
 	private int armCount; 
 	private int noseCount;
+	public String getarmCount;
 	
 	public MarshmallowMonster()
 	{
